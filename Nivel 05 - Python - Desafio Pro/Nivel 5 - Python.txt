@@ -1,0 +1,118 @@
+    01. Desafios Básicos (Dificuldade PRO):
+1) Implemente um algoritmo eficiente para calcular todos os números primos até um determinado limite, utilizando o Crivo de Atkin.
+2) Faça um programa que verifique se uma frase é um palíndromo, considerando espaços, pontuações e caracteres especiais, utilizando programação dinâmica.
+3) Crie um programa que receba uma lista de números e retorne outra lista com apenas os números pares, ordenados de forma decrescente, utilizando o algoritmo de ordenação QuickSort.
+4) Desenvolva um programa que analise um grande volume de texto em tempo linear para contar o número de ocorrências de cada palavra, utilizando uma estrutura de dados Trie.
+5) Implemente uma classe "Pessoa" que armazene informações como nome, data de nascimento e endereço, e que possa calcular a idade de forma precisa levando em conta anos bissextos.
+
+______________________________________________________________________________________________________________________________
+    02. Desafios de Strings (Dificuldade PRO):
+1) Faça um programa que receba um texto e identifique todas as sequências de palavras que formam anagramas entre si, utilizando um algoritmo de hashing eficiente.
+2) Desenvolva um programa que converta uma frase para a forma "Camel Case", preservando a capitalização correta de cada palavra e eliminando espaços.
+3) Crie um programa que receba um texto e determine se ele é um pangrama, ou seja, se contém todas as letras do alfabeto ao menos uma vez, utilizando manipulação avançada de strings.
+4) Implemente uma função que realize a criptografia de um texto utilizando o algoritmo AES com uma chave de tamanho personalizado, garantindo segurança e eficiência.
+5) Desenvolva um programa que analise um texto e identifique todos os padrões de repetição de letras e palavras, utilizando algoritmos de processamento de linguagem natural avançados.
+
+______________________________________________________________________________________________________________________________
+    03. Desafios de Listas (Dificuldade PRO):
+1) Crie um programa que receba duas listas ordenadas e retorne uma terceira lista com os elementos ordenados de forma eficiente, utilizando o algoritmo MergeSort.
+2) Implemente um algoritmo que identifique todos os ciclos em um grafo representado por uma lista de adjacências, utilizando busca em profundidade (DFS) de forma eficiente.
+3) Desenvolva uma função que receba duas listas de números ordenadas e retorne a interseção das listas em tempo linear, utilizando o algoritmo dos dois ponteiros.
+4) Faça um programa que verifique se uma lista está ordenada de forma estritamente crescente, ou seja, sem elementos iguais, utilizando programação dinâmica.
+5) Crie uma função que receba uma lista de palavras e retorne outra lista com as palavras que são anagramas entre si, utilizando manipulação avançada de strings e estruturas de dados eficientes.
+
+______________________________________________________________________________________________________________________________
+    04. Desafios de Loops (Dificuldade PRO):
+1) Implemente um algoritmo eficiente para gerar todos os números primos até um dado limite, utilizando o teste de primalidade de Miller-Rabin.
+2) Desenvolva um programa que calcule a média de uma lista de números gigante sem armazenar todos os elementos na memória, utilizando a técnica de amostragem estatística.
+3) Faça um programa que calcule a raiz quadrada de um número com precisão específica utilizando o método de Newton-Raphson de forma iterativa.
+4) Crie uma função que gere os primeiros n números da sequência de Hofstadter-Conway $H(n)$, utilizando recursão e memoização para otimização.
+5) Implemente um algoritmo eficiente para calcular o n-ésimo termo da sequência de Fibonacci, considerando valores extremamente grandes, utilizando programação dinâmica.
+
+______________________________________________________________________________________________________________________________
+    05. Desafios de Funções (Dificuldade PRO):
+1) Desenvolva uma função que calcule o número de maneiras distintas de se colocar N rainhas em um tabuleiro de xadrez NxN, utilizando programação dinâmica.
+2) Faça um programa que implemente o algoritmo de factorização de números grandes, utilizando o algoritmo de Fermat para encontrar fatores não triviais.
+3) Implemente uma função que determine se um número é um número primo com alta probabilidade de acerto, utilizando o teste de primalidade de Miller-Rabin.
+4) Desenvolva um programa que determine o menor número triangular que possui mais de N divisores, utilizando o conceito de fatoração de números.
+5) Crie uma função que calcule o n-ésimo termo da sequência de Padovan, utilizando memoização para otimização e manipulação eficiente de grandes números.
+
+______________________________________________________________________________________________________________________________
+    06. Desafios de POO (Dificuldade PRO):
+1) Implemente uma estrutura de dados de árvore B+ em Python, com métodos de inserção, remoção e busca eficientes.
+2) Faça um programa que simule a execução de um processador pipelined de alto desempenho, modelando a execução de instruções em múltiplos estágios.
+3) Desenvolva uma biblioteca de álgebra linear em Python, com suporte a operações avançadas como decomposição LU, QR e SVD.
+4) Crie um sistema de simulação de tráfego aéreo em Python, modelando a movimentação de aeronaves e interações entre elas em um espaço aéreo complexo.
+5) Implemente um motor de renderização 3D em Python, com suporte a técnicas avançadas como iluminação global, mapeamento de texturas e sombreamento.
+
+______________________________________________________________________________________________________________________________
+    07. Desafios de Arquivos (Dificuldade PRO):
+1) Faça um programa que leia um arquivo de texto enorme e conte quantas vezes cada palavra aparece, utilizando uma abordagem distribuída em múltiplos nós de processamento.
+2) Desenvolva um programa que processe um arquivo CSV de grandes dimensões e realize operações matemáticas complexas em paralelo, utilizando computação distribuída.
+3) Implemente um sistema de leitura de arquivos JSON em larga escala, utilizando técnicas de streaming e processamento assíncrono para otimização de recursos.
+4) Crie um programa que leia um arquivo XML extremamente complexo e extraia informações relevantes em tempo linear, utilizando técnicas avançadas de análise sintática.
+5) Desenvolva um sistema de processamento de dados em tempo real que leia um arquivo Excel gigante e realize cálculos estatísticos complexos de forma distribuída.
+
+______________________________________________________________________________________________________________________________
+    08. Desafios de APIs e Web (Dificuldade PRO):
+1) Desenvolva um servidor de aplicação web assíncrono altamente escalável, utilizando o framework Quart e a biblioteca asyncio.
+2) Implemente um sistema de autenticação OAuth2 com suporte a múltiplos fluxos de autorização e escopos personalizados.
+3) Faça um programa que utilize uma API de previsão do tempo e aplique técnicas avançadas de aprendizado de máquina para melhorar a precisão das previsões.
+4) Desenvolva um web scraper que utilize técnicas de scraping semântico para extrair informações de páginas web de forma inteligente e não estruturada.
+5) Implemente um bot para Slack que utilize as APIs de mensagens para realizar interações complexas, como agendamento de reuniões e solicitação de informações contextuais.
+
+______________________________________________________________________________________________________________________________
+    09. Desafios de GUI (Dificuldade PRO):
+1) Crie um aplicativo de design gráfico com uma interface gráfica altamente interativa e suporte a ferramentas avançadas de edição de imagem.
+2) Desenvolva um software de modelagem 3D com uma GUI complexa que permita a manipulação intuitiva de objetos tridimensionais e simulação física.
+3) Implemente um sistema de visualização científica com uma GUI que suporte gráficos 3D interativos e análise de dados em tempo real.
+4) Faça um programa de edição de vídeo com uma interface gráfica avançada que permita a aplicação de efeitos especiais e composição de várias camadas.
+5) Desenvolva um ambiente de desenvolvimento integrado (IDE) com uma GUI altamente personalizável e suporte a diversas linguagens de programação.
+
+______________________________________________________________________________________________________________________________
+    10. Desafios de Banco de Dados (Dificuldade PRO):
+1) Implemente um sistema de banco de dados distribuído altamente disponível e tolerante a falhas, utilizando o teorema CAP e técnicas de replicação assíncrona.
+2) Faça um programa que utilize um banco de dados de grafos para modelar e analisar redes sociais complexas, com suporte a consultas sofisticadas.
+3) Desenvolva um sistema de gerenciamento de dados geoespaciais com suporte a consultas espaciais avançadas e indexação eficiente.
+4) Implemente um sistema de recomendação em tempo real utilizando um banco de dados em memória, com suporte a algoritmos de recomendação personalizada.
+5) Faça um programa que utilize um banco de dados multimodelo para armazenar e consultar dados estruturados e não estruturados de forma eficiente.
+
+______________________________________________________________________________________________________________________________
+    11. Desafios de Segurança (Dificuldade PRO):
+1) Desenvolva um sistema de detecção de anomalias em tempo real que utilize aprendizado de máquina para identificar padrões de comportamento suspeitos.
+2) Implemente um sistema de criptografia pós-quântica que utilize algoritmos resistentes a ataques de computadores quânticos.
+3) Faça um programa que simule um ataque de engenharia social em uma empresa, identificando vulnerabilidades e propondo medidas de proteção.
+4) Desenvolva um sistema de detecção de malware baseado em aprendizado profundo, capaz de identificar ameaças desconhecidas com alta precisão.
+5) Implemente um sistema de autenticação biométrica multimodal que combine reconhecimento facial, de íris e de voz para garantir a identidade do usuário.
+
+______________________________________________________________________________________________________________________________
+    12. Desafios de Matemática (Dificuldade PRO):
+1) Faça um programa que calcule o determinante de uma matriz de tamanho arbitrário utilizando o método de decomposição de Cholesky.
+2) Implemente um algoritmo eficiente para calcular a inversa de uma matriz grande utilizando o método de Gauss-Jordan.
+3) Desenvolva um programa que resolva sistemas lineares de grande escala utilizando métodos iterativos como o método de Jacobi ou Gauss-Seidel.
+4) Faça um programa que calcule a decomposição de valores singulares (SVD) de uma matriz densa, utilizando o algoritmo de Golub-Reinsch.
+5) Implemente um sistema de otimização de portfólio de investimentos utilizando programação linear ou métodos de otimização convexa.
+
+______________________________________________________________________________________________________________________________
+    13. Desafios de Machine Learning (Dificuldade PRO):
+1) Desenvolva um sistema de reconhecimento de objetos em vídeos de alta resolução, utilizando redes neurais convolucionais profundas e técnicas de transferência de aprendizado.
+2) Implemente um sistema de tradução automática neural que traduza texto em tempo real entre múltiplos idiomas, utilizando redes neurais recorrentes avançadas.
+3) Faça um programa que identifique automaticamente sentimentos em textos longos, como resenhas de filmes ou posts em redes sociais, utilizando redes neurais de atenção.
+4) Desenvolva um sistema de geração automática de legendas para imagens utilizando redes neurais generativas adversariais (GANs) e modelos de linguagem.
+5) Implemente um sistema de recomendação contextualizado que leve em conta o histórico de interações do usuário e fatores externos como clima e localização.
+
+______________________________________________________________________________________________________________________________
+    14. Desafios de Análise de Dados (Dificuldade PRO):
+1) Faça um programa que utilize aprendizado profundo para gerar descrições automáticas de imagens médicas, como radiografias e ressonâncias magnéticas.
+2) Desenvolva um sistema de sumarização automática de textos longos, utilizando técnicas avançadas de processamento de linguagem natural como transformers.
+3) Implemente um programa que detecte automaticamente fraudes em transações financeiras em tempo real, utilizando aprendizado supervisionado e não supervisionado.
+4) Faça um sistema de recomendação de conteúdo personalizado para serviços de streaming, utilizando modelos de filtragem colaborativa e análise de conteúdo.
+5) Desenvolva um sistema de análise de imagem de satélite para monitoramento ambiental, identificando desmatamento, poluição e mudanças climáticas.
+
+______________________________________________________________________________________________________________________________
+    17. Desafios de Testes (Dificuldade PRO):
+1) Implemente um sistema de teste de estresse automatizado que simule cargas de trabalho extremas em um sistema distribuído, identificando pontos de falha e gargalos de desempenho.
+2) Faça testes de segurança abrangentes em um sistema crítico de infraestrutura, identificando e corrigindo vulnerabilidades de segurança em tempo real.
+3) Desenvolva um sistema de teste de usabilidade que utilize técnicas de análise de vídeo e rastreamento ocular para entender o comportamento do usuário em detalhes.
+4) Implemente um sistema de teste de performance de aplicativos móveis que simule o comportamento de milhares de usuários simultâneos em dispositivos de diferentes especificações.
+5) Faça testes de integridade de dados em um sistema de armazenamento distribuído, garantindo a consistência e confiabilidade dos dados em ambientes de alta disponibilidade.

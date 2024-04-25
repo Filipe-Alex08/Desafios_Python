@@ -1,0 +1,106 @@
+    01. Desafios Básicos:
+1) Crie um programa que receba o nome e a idade do usuário e imprima uma mensagem com essas informações.
+2) Faça um programa que peça ao usuário para digitar dois números e imprima a soma deles.
+3) Crie um programa que converta uma temperatura de Celsius para Fahrenheit.
+4) Faça um programa que solicite o raio de um círculo e calcule sua área.
+5) Crie um programa que receba um número inteiro e verifique se é par ou ímpar.
+______________________________________________________________________________________________________________________________
+    02. Desafios de Strings:
+1) Faça um programa que peça ao usuário seu nome e sobrenome separadamente, e depois imprima-os juntos.
+2) Crie um programa que substitua todas as ocorrências de uma letra em uma frase por outra letra especificada pelo usuário.
+3) Faça um programa que verifique se uma palavra digitada pelo usuário é um palíndromo.
+4) Crie um programa que conte quantas vezes uma determinada palavra aparece em uma frase.
+5) Faça um programa que receba uma frase e a imprima em caixa alta e caixa baixa.
+______________________________________________________________________________________________________________________________
+    03. Desafios de Listas:
+1) Crie um programa que receba uma lista de números e retorne o maior e o menor número.
+2) Faça um programa que solicite ao usuário uma lista de números e calcule a média deles.
+3) Crie um programa que receba uma lista de nomes e ordene-os em ordem alfabética.
+4) Faça um programa que verifique se um determinado elemento está presente em uma lista.
+5) Crie um programa que inverta a ordem dos elementos em uma lista.
+______________________________________________________________________________________________________________________________
+    04. Desafios de Loops:
+1) Faça um programa que imprima os números de 1 a 10.
+2) Crie um programa que calcule a soma dos números de 1 a 100.
+3) Faça um programa que exiba os múltiplos de 5 de 0 a 50.
+4) Crie um programa que imprima a tabuada de multiplicação de um número fornecido pelo usuário.
+5) Faça um programa que imprima os números pares de 0 a 20.
+______________________________________________________________________________________________________________________________
+    05. Desafios de Funções:
+1) Faça uma função que calcule a área de um círculo dado o raio.
+2) Crie uma função que verifique se um número é primo ou não.
+3) Faça uma função que receba uma lista de números e retorne o maior número.
+4) Crie uma função que receba uma lista de números e retorne outra lista apenas com os números positivos.
+5) Faça uma função que receba uma lista de palavras e retorne outra lista com o comprimento de cada palavra.
+______________________________________________________________________________________________________________________________
+    06. Desafios de POO:
+1) Crie uma classe "Pessoa" com atributos de nome e idade, e um método para imprimir esses atributos.
+2) Faça uma classe "Círculo" que tenha um atributo de raio e métodos para calcular sua área e perímetro.
+3) Crie uma classe "Conta Bancária" com métodos para depósito, saque e consulta de saldo.
+4) Faça uma classe "Veículo" com atributos de marca, modelo e ano, e um método para imprimir esses atributos.
+5) Crie uma classe "Animal" com métodos para emitir sons característicos de diferentes animais.
+______________________________________________________________________________________________________________________________
+    07. Desafios de Arquivos:
+1) Faça um programa que leia um arquivo de texto e imprima seu conteúdo na tela.
+2) Crie um programa que solicite ao usuário seu nome e salve-o em um arquivo de texto.
+3) Faça um programa que conte o número de linhas em um arquivo de texto.
+4) Crie um programa que leia um arquivo CSV e imprima seu conteúdo na tela.
+5) Faça um programa que crie um novo arquivo CSV e insira algumas linhas de dados.
+______________________________________________________________________________________________________________________________
+    08. Desafios de APIs e Web:
+1) Faça um programa que realize uma requisição HTTP para uma API pública e exiba os dados recebidos.
+2) Crie um programa que utilize a API do Twitter para postar automaticamente uma mensagem.
+3) Faça um programa que faça uma busca no Google e exiba os resultados.
+4) Crie um programa que solicite ao usuário um endereço IP e retorne informações geográficas sobre ele usando uma API de geolocalização.
+5) Faça um programa que consuma uma API de previsão do tempo e exiba a previsão para uma determinada cidade.
+______________________________________________________________________________________________________________________________
+    09. Desafios de GUI (Dificuldade Aumentada):
+1) Faça um programa com uma GUI que permita ao usuário desenhar formas geométricas e escolher suas cores.
+2) Crie um aplicativo de calculadora com uma GUI que permita realizar operações matemáticas básicas.
+3) Faça um programa com uma GUI que exiba uma galeria de imagens e permita ao usuário visualizá-las em tela cheia.
+4) Crie um jogo de adivinhação com uma interface gráfica onde o jogador deve adivinhar um número entre 1 e 100.
+5) Faça um programa com uma GUI que permita ao usuário criar e editar documentos de texto.
+______________________________________________________________________________________________________________________________
+    10. Desafios de Banco de Dados:
+1) Faça um programa que conecte a um banco de dados SQLite e crie uma tabela de clientes.
+2) Crie um sistema de cadastro de produtos utilizando um banco de dados MySQL.
+3) Faça um programa que utilize um banco de dados MongoDB para armazenar e consultar informações sobre filmes.
+4) Crie um sistema de blog utilizando um banco de dados PostgreSQL para armazenar os posts e comentários.
+5) Faça um programa que utilize um banco de dados SQLite para armazenar e consultar informações sobre alunos e notas.
+______________________________________________________________________________________________________________________________
+    11. Desafios de Segurança:
+1) Faça um programa que implemente um sistema de autenticação simples com nome de usuário e senha.
+2) Crie um programa que codifique uma mensagem usando uma cifra de substituição simples.
+3) Faça um programa que simule um ataque de força bruta em uma senha de quatro dígitos.
+4) Crie um programa que gere senhas aleatórias com uma determinada força e comprimento especificados pelo usuário.
+5) Faça um programa que verifique a segurança de uma senha com base em critérios como comprimento, caracteres especiais e números.
+______________________________________________________________________________________________________________________________
+    12. Desafios de Matemática:
+1) Faça um programa que calcule o fatorial de um número usando recursão.
+2) Crie um programa que resolva uma equação quadrática.
+3) Faça um programa que gere os primeiros n números da sequência de Fibonacci.
+4) Crie um programa que calcule o máximo divisor comum (MDC) de dois números.
+5) Faça um programa que converta um número decimal em binário.
+______________________________________________________________________________________________________________________________
+    13. Desafios de Machine Learning:
+1) Faça um programa que implemente uma regressão linear simples para prever uma variável dependente com base em uma variável independente.
+2) Crie um programa que use o algoritmo k-nearest neighbors para classificar dados.
+3) Faça um programa que treine um modelo de classificação de texto usando o algoritmo Naive Bayes.
+4) Crie um programa que utilize uma rede neural recorrente (RNN) para prever a próxima palavra em uma sequência de texto.
+5) Faça um programa que utilize o algoritmo de agrupamento hierárquico para agrupar dados.
+______________________________________________________________________________________________________________________________
+    14. Desafios de Análise de Dados:
+1) Crie um programa que gere visualizações de dados (gráficos) a partir de um conjunto de dados.
+2) Faça um programa que implemente um algoritmo de clustering para agrupar dados semelhantes.
+3) Crie um programa que utilize técnicas de redução de dimensionalidade (como PCA) para visualizar dados em um espaço de menor dimensão.
+4) Faça um programa que analise a correlação entre diferentes variáveis em um conjunto de dados.
+5) Crie um programa que preveja valores futuros com base em padrões históricos em um conjunto de dados.
+______________________________________________________________________________________________________________________________
+    17. Desafios de Testes:
+1) Faça testes unitários para uma função que verifica se um número é primo.
+2) Crie testes de integração para garantir que diferentes partes de um sistema se comuniquem corretamente.
+3) Faça testes de regressão para garantir que alterações no código não quebrem funcionalidades existentes.
+4) Crie testes de aceitação para garantir que um sistema atenda aos requisitos do usuário.
+5) Faça testes de desempenho para avaliar o tempo de resposta de um sistema sob diferentes cargas de trabalho.
+
+

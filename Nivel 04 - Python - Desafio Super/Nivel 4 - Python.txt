@@ -1,0 +1,118 @@
+    01. Desafios Básicos (Dificuldade SUPER):
+1) Crie um programa que receba uma lista de números e retorne outra lista apenas com os números primos, utilizando o crivo de Eratóstenes.
+2) Faça um programa que solicite ao usuário uma frase e verifique se é um palíndromo, considerando espaços, pontuações e caracteres especiais.
+3) Crie um programa que receba uma lista de números e retorne outra lista com apenas os números pares, em ordem decrescente, utilizando list comprehension.
+4) Faça um programa que leia um arquivo de texto e conte quantas palavras diferentes ele contém, ignorando maiúsculas e minúsculas.
+5) Crie uma classe "Pessoa" com métodos para calcular a idade em anos, meses e dias, considerando anos bissextos.
+
+______________________________________________________________________________________________________________________________
+    02. Desafios de Strings (Dificuldade SUPER):
+1) Faça um programa que receba uma frase e conte quantas vezes cada palavra aparece, ignorando maiúsculas e minúsculas.
+2) Crie um programa que converta uma frase para a forma "Snake Case", substituindo espaços por underscores e letras maiúsculas por minúsculas.
+3) Faça um programa que receba uma frase e retorne uma nova frase com as palavras em ordem reversa, mantendo a pontuação e considerando espaços e caracteres especiais.
+4) Crie uma função que valide se uma senha atende aos critérios mínimos de segurança (comprimento mínimo, uso de letras maiúsculas, minúsculas, números e caracteres especiais), utilizando expressões regulares.
+5) Faça um programa que leia um texto e remova todas as vogais dele, mantendo a pontuação e espaços.
+
+______________________________________________________________________________________________________________________________
+    03. Desafios de Listas (Dificuldade SUPER):
+1) Crie um programa que receba duas listas e retorne uma terceira lista com os elementos que são comuns às duas listas, sem repetições, utilizando conjuntos.
+2) Faça um programa que receba uma lista de números e retorne outra lista com apenas os números únicos (que aparecem uma única vez), utilizando estruturas de dados eficientes.
+3) Crie uma função que receba duas listas de números e retorne uma lista com os elementos que estão em ambas as listas e suas respectivas posições, utilizando zip.
+4) Faça um programa que verifique se uma lista está ordenada de forma crescente, utilizando uma abordagem recursiva.
+5) Crie um programa que receba uma lista de palavras e retorne outra lista apenas com as palavras que têm mais de três letras, utilizando filter.
+
+______________________________________________________________________________________________________________________________
+    04. Desafios de Loops (Dificuldade SUPER):
+1) Faça um programa que imprima os números primos entre 1 e 10000.
+2) Crie um programa que calcule a média dos elementos em uma lista de números, ignorando os três maiores e os três menores valores.
+3) Faça um programa que gere a sequência de Fibonacci até o enésimo termo fornecido pelo usuário, utilizando uma abordagem iterativa otimizada.
+4) Crie um programa que calcule o fatorial de um número sem usar recursão.
+5) Faça um programa que imprima os números de 1 a 100, substituindo os múltiplos de 3 por "Fizz", os múltiplos de 5 por "Buzz" e os múltiplos de ambos por "FizzBuzz", utilizando uma abordagem eficiente.
+
+______________________________________________________________________________________________________________________________
+    05. Desafios de Funções (Dificuldade SUPER):
+1) Faça uma função que receba um número inteiro e retorne o número invertido, utilizando apenas operações matemáticas.
+2) Crie uma função que calcule o número de combinações possíveis de um conjunto de elementos, utilizando o triângulo de Pascal.
+3) Faça uma função que receba uma lista de números e retorne a soma dos elementos, elevados ao quadrado, utilizando o módulo functools.
+4) Crie uma função que receba uma lista de palavras e retorne outra lista com as palavras que têm as letras em ordem alfabética, utilizando uma abordagem eficiente.
+5) Faça uma função que verifique se um número é palíndromo, utilizando uma abordagem otimizada.
+
+______________________________________________________________________________________________________________________________
+    07. Desafios de POO (Dificuldade SUPER):
+1) Crie uma classe "Produto" com métodos para calcular o preço com desconto e adicionar informações adicionais, utilizando herança e encapsulamento.
+2) Faça uma classe "Triângulo" que tenha métodos para verificar se é um triângulo válido e calcular a área, utilizando herança e polimorfismo.
+3) Crie uma classe "Rede Social" que permita adicionar amigos, postar mensagens e ver o feed de notícias, utilizando encapsulamento e composição.
+4) Faça uma classe "Baralho" que possa embaralhar as cartas e distribuir mãos, utilizando encapsulamento e métodos estáticos.
+5) Crie um programa que simule um sistema de compra online utilizando as classes que você criou, utilizando todos os princípios da orientação a objetos.
+
+______________________________________________________________________________________________________________________________
+    06. Desafios de Arquivos (Dificuldade SUPER):
+1) Faça um programa que leia um arquivo de texto, conte quantas vezes cada palavra aparece e retorne as 5 palavras mais comuns, utilizando uma abordagem eficiente.
+2) Crie um programa que leia um arquivo CSV, faça algumas operações matemáticas nos dados e salve os resultados em outro arquivo CSV, utilizando o módulo pandas.
+3) Faça um programa que leia um arquivo JSON contendo informações de alunos e retorne a média das notas, utilizando uma abordagem eficiente.
+4) Crie um programa que leia um arquivo XML, extraia informações relevantes e salve em outro formato, utilizando o módulo xml.etree.ElementTree.
+5) Faça um programa que leia um arquivo Excel, calcule a soma de uma coluna e insira o resultado em outra planilha, utilizando o módulo openpyxl.
+
+______________________________________________________________________________________________________________________________
+    08. Desafios de APIs e Web (Dificuldade SUPER):
+1) Faça um programa que crie um servidor RESTful avançado para manipulação de dados, utilizando Flask ou Django.
+2) Crie um programa que faça autenticação OAuth em uma API de terceiros e realize operações avançadas.
+3) Faça um programa que use uma API de previsão do tempo para fornecer informações personalizadas e gráficos detalhados.
+4) Crie um web scraper complexo que extraia informações de várias páginas e as compile em uma base de dados relacional ou não relacional.
+5) Faça um programa que envie mensagens automáticas para grupos do Slack com informações personalizadas e interações avançadas.
+
+______________________________________________________________________________________________________________________________
+    09. Desafios de GUI (Dificuldade SUPER):
+1) Faça um programa com uma GUI complexa que permita ao usuário desenhar formas geométricas interativas e aplicar transformações nelas.
+2) Crie um aplicativo de gerenciamento de tarefas com uma GUI avançada que permita adicionar, editar e remover tarefas de forma intuitiva.
+3) Faça um programa com uma GUI que exiba um gráfico em tempo real com dados provenientes de sensores e permita ajustar parâmetros em tempo real.
+4) Crie um jogo de xadrez com uma interface gráfica elaborada que permita jogar contra o computador em diferentes níveis de dificuldade.
+5) Faça um programa com uma GUI que simule um ambiente de simulação física realista com objetos dinâmicos e interações complexas.
+
+______________________________________________________________________________________________________________________________
+    10. Desafios de Banco de Dados (Dificuldade SUPER):
+1) Faça um programa que conecte a um banco de dados MySQL e faça operações complexas de CRUD, utilizando transações e otimizações.
+2) Crie um sistema de gerenciamento de estoque robusto utilizando um banco de dados PostgreSQL e implemente estratégias avançadas de otimização.
+3) Faça um programa que utilize um banco de dados SQLite para armazenar e consultar informações de um blog, implementando cache e indexação avançada.
+4) Crie um sistema de análise de dados em tempo real utilizando um banco de dados NoSQL como o MongoDB e técnicas de agregação e pipelines.
+5) Faça um programa que utilize um banco de dados Redis para armazenar cache de consultas frequentes e implemente políticas de expiração e invalidação.
+
+______________________________________________________________________________________________________________________________
+    11. Desafios de Segurança (Dificuldade SUPER):
+1) Faça um programa que implemente autenticação de dois fatores para um sistema, utilizando criptografia assimétrica e tokens únicos.
+2) Crie um programa que use criptografia assimétrica avançada para troca segura de mensagens, implementando autenticação e assinaturas digitais.
+3) Faça um programa que simule um ataque de injeção de SQL em uma aplicação vulnerável, identificando e corrigindo vulnerabilidades.
+4) Crie um sistema de detecção de intrusão avançado que analise logs em busca de padrões suspeitos e reaja automaticamente a ataques.
+5) Faça um programa que use assinaturas digitais e certificados digitais para garantir a autenticidade e integridade de um arquivo, implementando blockchain.
+
+______________________________________________________________________________________________________________________________
+    12. Desafios de Matemática (Dificuldade SUPER):
+1) Crie um programa que calcule a derivada de uma função polinomial utilizando cálculo diferencial avançado.
+2) Faça um programa que resolva uma equação polinomial de grau 3 utilizando métodos numéricos avançados.
+3) Crie um programa que implemente o algoritmo de Newton-Raphson para encontrar raízes de uma equação de forma eficiente e precisa.
+4) Faça um programa que calcule a integral definida de uma função usando o método de Monte Carlo para integração numérica.
+5) Crie um programa que resolva um sistema de equações não lineares utilizando métodos iterativos avançados, como o método de Newton.
+
+______________________________________________________________________________________________________________________________
+    13. Desafios de Machine Learning (Dificuldade SUPER):
+1) Faça um programa que treine um modelo de redes neurais convolucionais para classificação de imagens em um dataset complexo.
+2) Crie um programa que implemente o algoritmo Expectation-Maximization para clustering de dados em alta dimensão.
+3) Faça um sistema de recomendação utilizando uma técnica de filtragem colaborativa avançada, como Matrix Factorization.
+4) Crie um programa que treine uma rede neural recorrente para análise de sequências temporais complexas, como previsão de séries temporais.
+5) Faça um programa que use o algoritmo de aprendizagem por reforço para treinar um agente em um ambiente complexo e não determinístico, como um jogo de estratégia em tempo real.
+
+______________________________________________________________________________________________________________________________
+    14. Desafios de Análise de Dados (Dificuldade SUPER):
+1) Faça um programa que utilize análise de componentes principais (PCA) para redução de dimensionalidade em um conjunto de dados de alta dimensão.
+2) Crie um programa que implemente o algoritmo Apriori para mineração de regras de associação em grandes volumes de transações.
+3) Faça um programa que utilize técnicas de processamento de linguagem natural para análise de sentimentos avançada em textos em múltiplos idiomas.
+4) Crie um sistema de previsão de séries temporais utilizando modelos ARIMA com parâmetros otimizados através de busca exaustiva.
+5) Faça um programa que utilize aprendizado não supervisionado para segmentação de clientes em um banco de dados, identificando clusters de comportamentos complexos.
+
+______________________________________________________________________________________________________________________________
+    17. Desafios de Testes (Dificuldade SUPER):
+1) Faça testes de hipótese estatística complexos para um conjunto de dados de alta dimensionalidade, utilizando métodos avançados de análise.
+2) Crie testes de regressão abrangentes para garantir a estabilidade de sistemas distribuídos em larga escala, considerando cenários extremos e variações de carga.
+3) Faça testes de usabilidade em uma aplicação web complexa, utilizando ferramentas avançadas de análise de comportamento do usuário e testes de acessibilidade.
+4) Crie testes de performance altamente detalhados para um sistema de processamento em tempo real, considerando diferentes cargas de trabalho e cenários de pico.
+5) Faça testes de integridade de banco de dados em sistemas distribuídos geograficamente, garantindo a consistência e replicação dos dados em diferentes nós.
