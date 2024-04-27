@@ -54,7 +54,7 @@ ________________________________________________________________________________
 4) Crie um programa que solicite ao usuário um endereço IP e retorne informações geográficas sobre ele usando uma API de geolocalização.
 5) Faça um programa que consuma uma API de previsão do tempo e exiba a previsão para uma determinada cidade.
 ______________________________________________________________________________________________________________________________
-    09. Desafios de GUI (Dificuldade Aumentada):
+    09. Desafios de GUI:
 1) Faça um programa com uma GUI que permita ao usuário desenhar formas geométricas e escolher suas cores.
 2) Crie um aplicativo de calculadora com uma GUI que permita realizar operações matemáticas básicas.
 3) Faça um programa com uma GUI que exiba uma galeria de imagens e permita ao usuário visualizá-las em tela cheia.
