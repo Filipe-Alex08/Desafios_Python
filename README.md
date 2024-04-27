@@ -1,10 +1,10 @@
-<h1 align="center">Desafios em HTML & CSS</h1>
+<h1 align="center">Desafios em Python</h1>
 
-<p align="center"><i>Desafios da programação em HTML & CSS</i></p>
+<p align="center"><i>Desafios da programação em Python</i></p>
 
 <h2 align="center">Histórico de revisão</h2>
 
-<p>Os desafios voltados para HTML & CSS estão separados em 5 niveis e a cada nivel, a dificuldade da execução ficará mais dificil conforme o aumento de nivel</p>
+<p>Os desafios voltados para Python estão separados em 5 niveis e a cada nivel, a dificuldade da execução ficará mais dificil conforme o aumento de nivel</p>
 
 <table>
     <thead>
