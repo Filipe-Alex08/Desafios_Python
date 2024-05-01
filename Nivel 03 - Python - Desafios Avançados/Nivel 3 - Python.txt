@@ -48,7 +48,7 @@ ________________________________________________________________________________
 ______________________________________________________________________________________________________________________________
     07. Desafios de Arquivos:
 1) Faça um programa que leia um arquivo texto, conte quantas vezes cada palavra aparece e retorne as 5 palavras mais comuns.
-2) Crie um programa que leia um arquivo CSV, faça algumas operações matemáticas nos dados e salve os resultados em outro arquivo CSV.
+2) Criar um programa que leia um arquivo CSV e fazer algumas operações matemáticas nos dados e mostrar os resultados.
 3) Faça um programa que leia um arquivo JSON contendo informações de alunos e retorne a média das notas.
 4) Crie um programa que leia um arquivo XML, extraia informações relevantes e salve em outro formato.
 5) Faça um programa que leia um arquivo Excel, calcule a soma de uma coluna e insira o resultado em outra planilha.
